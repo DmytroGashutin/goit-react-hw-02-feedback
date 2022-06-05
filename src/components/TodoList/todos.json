@@ -1,0 +1,6 @@
+[
+{ "id": "id-1","text": "Что нибудь 1", "completed": false },
+{ "id": "id-2","text": "Что нибудь 2", "completed": false },
+{ "id": "id-3","text": "Что нибудь 3", "completed": false },
+{ "id": "id-4","text": "Что нибудь 4", "completed": false }
+]
